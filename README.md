@@ -20,7 +20,9 @@
   https://repl.it/join/klxauobh-penumalasravani
   
 # Image of web page:
-  <img src=
+  
+  ![imageOfFrontend](https://user-images.githubusercontent.com/72606270/97800229-a91f4d00-1c59-11eb-8efb-2577073b2d62.png)
+
 
 # Github link :
   https://github.com/Chalapathi1234/ML2021week2<br/>
