@@ -1,7 +1,7 @@
 # ML2021week2
 
 ***Team members***
-1. Saraswatula Sri Jnanendra Chalapati - 19pa1a12b3<br/>
+1. Saraswatula Sri Jnanendra Chalapathi - 19pa1a12b3<br/>
 2. Penumala Sravani - 19pa1a1297
 
 # About The frontend of our bot.
