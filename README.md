@@ -20,11 +20,10 @@
   https://repl.it/join/klxauobh-penumalasravani
   
 # Image of web page:
-  
+  <img src=
 
 # Github link :
   https://github.com/Chalapathi1234/ML2021week2<br/>
   https://github.com/sravani1297/Guess_The_Number
   
 # Youtube Link:
-  https://youtu.be/36maDsRnTGg
