@@ -17,7 +17,6 @@
 
 # repl link for the frontend :
   https://repl.it/@19pa1a12b3/ML2021w2#index.html<br/>
-  https://repl.it/join/klxauobh-penumalasravani
   
 # Image of web page:
   
@@ -26,7 +25,6 @@
 
 # Github link :
   https://github.com/Chalapathi1234/ML2021week2<br/>
-  https://github.com/sravani1297/Guess_The_Number
   
 # Youtube Link:
 https://youtu.be/cZLFqoPHaVw
